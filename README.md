@@ -4,6 +4,7 @@
 Create Spotify playlists from your Last.fm listening history directly in Telegram.
 
 For Russian-speaking users: the bot is available at t.me/xenoonnshitbot.
+DM @xenoonn to ad you.
 
 ## What this bot does
 
