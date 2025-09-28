@@ -70,8 +70,8 @@ Important:
 
 1) Clone and install dependencies
 ```
-git clone https://github.com/yourname/yourrepo.git
-cd yourrepo
+git clone https://github.com/kseniakoshkina/Playlist-Creation-Bot.git
+cd Playlist-Creation-Bot
 
 python -m venv .venv
 source .venv/bin/activate   
