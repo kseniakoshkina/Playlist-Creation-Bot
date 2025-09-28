@@ -102,7 +102,6 @@ def get_spotify_auth_manager(token_info=None):
         client_secret=SPOTIPY_CLIENT_SECRET,
         redirect_uri=SPOTIPY_REDIRECT_URI,
         scope=SCOPE,
-        # cache_handler=spotipy.MemoryCacheHandler(token_info=token_info) # Не используем кэш, т.к. храним в БД
     )
     
 async def core_logic_create_playlist(telegram_id, start_date_str, end_date_str):
